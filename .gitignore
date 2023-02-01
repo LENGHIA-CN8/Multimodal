@@ -1,0 +1,7 @@
+*.zip
+*.jpg
+runs/
+vncorenlp/
+.ipynb_checkpoints/
+OUTPUT/
+
