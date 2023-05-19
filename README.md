@@ -2,7 +2,7 @@
 This project is implementation for Bachelor's Thesis "Research on some methods to improve the reliability of comment sentiment analysis model"
 ## Implementation
 ### RSA-SM
-![RSA-SM](./img/RSA-SM.png)
+![RSA-SM](./img/RSA-SM.png)<br />
 [Stack-MaxMultimodal.ipynb](./Stack-MaxMultimodal.ipynb) 
 ### RSA-ALF
 ![RSA-ALF](./img/RSA-ALF.png) <br />
